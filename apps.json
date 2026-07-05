@@ -55,11 +55,11 @@
     "description": "UNKNOWN"
   },
   {
-    "name": "IGIT-Connects",
+    "name": "LinkPeer",
     "tagline": "Coming soon: Advance!",
     "isAvailable": false,
     "link": "https://play.google.com/store/apps/details?id=com.example.app5",
-    "logo": "https://link-to-logo5.png",
+    "logo": "https://raw.githubusercontent.com/Swayanshuu/Batch-Mate-Helper/refs/heads/main/LinkPeerFULL.png",
     "screenshots": [
       "https://link-to-screenshot1.jpg",
       "https://link-to-screenshot2.jpg"
