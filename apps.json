@@ -4,13 +4,13 @@
     "tagline": "Organize your tasks easily",
     "isAvailable": true,
     "link": "https://drive.google.com/file/d/1MGizjocHuqVvi5FTERaeKGJwyIL2LMgL/view",
-    "logo": "https://raw.githubusercontent.com/Swayanshuu/Batch-Mate-Helper/refs/heads/main/todo.png",
+    "logo": "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/refs/heads/main/todo.png",
     "screenshots": [
-      "https://raw.githubusercontent.com/Swayanshuu/Batch-Mate-Helper/refs/heads/main/ts1.jpg",
-      "https://raw.githubusercontent.com/Swayanshuu/Batch-Mate-Helper/refs/heads/main/ts2.jpg",
-      "https://raw.githubusercontent.com/Swayanshuu/Batch-Mate-Helper/refs/heads/main/ts3.jpg",
-      "https://raw.githubusercontent.com/Swayanshuu/Batch-Mate-Helper/refs/heads/main/ts4.jpg",
-      "https://raw.githubusercontent.com/Swayanshuu/Batch-Mate-Helper/refs/heads/main/ts5.jpg"
+      "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/refs/heads/main/ts1.jpg",
+      "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/refs/heads/main/ts2.jpg",
+      "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/refs/heads/main/ts3.jpg",
+      "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/refs/heads/main/ts4.jpg",
+      "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/refs/heads/main/ts5.jpg"
     ],
     "description": "✅ TODO Stuffs – A Smart Task Organizer App\n\nI built TODO Stuffs, a lightweight and clean to-do list app using Flutter. It helps users keep track of their daily tasks with a smooth, minimal interface. You can add tasks, manage them easily, and even switch to dark mode — and your theme preference stays saved even after restarting the app.\n\n🔹 What it Includes:\n- Add and manage your tasks\n- Dark mode with save support\n- Profile drawer with social links\n- Built using Flutter and Dart\n\n🔍 What I Learned from Building This App:\n- 🌐 How to build responsive UIs using Flutter widgets\n- 🌙 Implementing dark mode and saving preferences with SharedPreferences\n- 🧠 Managing app state effectively using setState\n- 🗂️ Structuring a multi-screen app using Navigator\n- 🧰 Organizing code for better readability and maintenance\n- 🎯 Importance of keeping the UI clean, simple, and user-friendly\n- 🚀 Gained confidence in building real-world apps from scratch using Flutter and Dart\n\n📦 Note: Since the app is not yet published on the Play Store, it may show a \"not Play Protect certified\" warning during installation. But don’t worry — the app is completely safe, doesn’t collect any personal data, and was built only for personal learning and productivity purposes.\n\nThis project was part of my learning journey in app development, and it’s available as an APK for Android right now."
   },
@@ -19,12 +19,12 @@
     "tagline": "Chat with people over World! (Not Working due to internal issue)",
     "isAvailable": true,
     "link": "https://drive.google.com/file/d/10zt6UdDa7IazZAYeoUdJj4xrU3IwDy9x/view?usp=drivesdk",
-    "logo": "https://raw.githubusercontent.com/Swayanshuu/Batch-Mate-Helper/refs/heads/main/GClogo.png",
+    "logo": "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/refs/heads/main/GClogo.png",
     "screenshots": [
-      "https://raw.githubusercontent.com/Swayanshuu/Batch-Mate-Helper/refs/heads/main/gc1.jpg",
-      "https://raw.githubusercontent.com/Swayanshuu/Batch-Mate-Helper/refs/heads/main/gc2.jpg",
-      "https://raw.githubusercontent.com/Swayanshuu/Batch-Mate-Helper/refs/heads/main/gc3.jpg",
-      "https://raw.githubusercontent.com/Swayanshuu/Batch-Mate-Helper/refs/heads/main/gc4.jpg"
+      "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/refs/heads/main/gc1.jpg",
+      "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/refs/heads/main/gc2.jpg",
+      "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/refs/heads/main/gc3.jpg",
+      "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/refs/heads/main/gc4.jpg"
     ],
     "description": "***(💤Currently app will not work for some technical issues. Sorry for the unfortunate Inconvenience.) \n\n✅ Real-Time Chat App – Built with Flutter & Firebase\n\nA real-time chat application built with Flutter and Firebase that allows users to communicate seamlessly.\n\n🔹 Features:\n- User authentication with Firebase (signup/login)\n- Realtime messaging using Firestore + StreamBuilder\n- Chatrooms with live updates\n- User profile creation & editing\n- State management using Provider\n- Custom UI with responsive design\n\n🔹 What I Learned:\n- Integrating Firebase Authentication & Firestore into Flutter apps\n- Handling realtime data streams efficiently\n- Managing global state across multiple screens\n- Building scalable chat features with modern UI/UX"
   },
@@ -33,12 +33,12 @@
     "tagline": "Because every batch is a STROY",
     "isAvailable": true,
     "link": "https://drive.google.com/file/d/1b0GFvl4Lp3q7oOJngPKYN3NHzWPTML2E/view?usp=drivesdk",
-    "logo": "https://raw.githubusercontent.com/Swayanshuu/Batch-Mate-Helper/refs/heads/main/BM.png",
+    "logo": "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/refs/heads/main/BM.png",
     "screenshots": [
-      "https://raw.githubusercontent.com/Swayanshuu/Batch-Mate-Helper/refs/heads/main/BM1.jpeg",
-      "https://raw.githubusercontent.com/Swayanshuu/Batch-Mate-Helper/refs/heads/main/BM2.jpeg",
-      "https://raw.githubusercontent.com/Swayanshuu/Batch-Mate-Helper/refs/heads/main/BM3.jpeg",
-      "https://raw.githubusercontent.com/Swayanshuu/Batch-Mate-Helper/refs/heads/main/BM4.jpeg"
+      "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/refs/heads/main/BM1.jpeg",
+      "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/refs/heads/main/BM2.jpeg",
+      "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/refs/heads/main/BM3.jpeg",
+      "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/refs/heads/main/BM4.jpeg"
     ],
      "description": "Batch Mate – Smart Student Assistant is a full-stack mobile application designed to make student life smarter and more organized.\n\nThe app provides real-time batch notices, timetable management, and quick access to user credentials, helping students stay informed and efficient.\n\nUsers can easily add, edit, or delete notices and timetable entries through a smooth and intuitive interface.\n\nBuilt using Flutter for the front-end and Firebase for real-time back-end services, the application demonstrates end-to-end mobile development with a focus on responsiveness, user-friendly design, and scalability to solve real-world student challenges."
   },
@@ -47,7 +47,7 @@
     "tagline": "Coming soon: With More Featurs",
     "isAvailable": false,
     "link": "",
-    "logo": "https://github.com/Swayanshuu/Batch-Mate-Helper/blob/main/TLorg.png?raw=true",
+    "logo": "https://github.com/Swayanshuu/SWYNX-Hepler/blob/main/TLorg.png?raw=true",
     "screenshots": [
       "https://link-to-screenshot1.jpg",
       "https://link-to-screenshot2.jpg"
@@ -59,10 +59,14 @@
     "tagline": "Coming soon: Advance!",
     "isAvailable": false,
     "link": "https://play.google.com/store/apps/details?id=com.example.app5",
-    "logo": "https://raw.githubusercontent.com/Swayanshuu/Batch-Mate-Helper/refs/heads/main/LinkPeerFULL.png",
+    "logo": "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/refs/heads/main/LinkPeerFULL.png",
     "screenshots": [
-      "https://link-to-screenshot1.jpg",
-      "https://link-to-screenshot2.jpg"
+      "https://github.com/Swayanshuu/SWYNX-Hepler/blob/main/LinkPeer/LP1.png",
+      "https://github.com/Swayanshuu/SWYNX-Hepler/blob/main/LinkPeer/LP2.png",
+      "https://github.com/Swayanshuu/SWYNX-Hepler/blob/main/LinkPeer/LP3.png",
+      "https://github.com/Swayanshuu/SWYNX-Hepler/blob/main/LinkPeer/LP4.png",
+      "https://github.com/Swayanshuu/SWYNX-Hepler/blob/main/LinkPeer/LP5.png",
+      "https://github.com/Swayanshuu/SWYNX-Hepler/blob/main/LinkPeer/LP6.png"
     ],
     "description": "UNKNOWN"
   },
@@ -85,11 +89,11 @@
     "tagline": "Turn your commits into Light✨",
     "isAvailable": true,
     "link": "https://drive.google.com/file/d/1Zesejjvg4D5HhPIvmIxepsscRPtCQ-ag/view?usp=drive_link",
-    "logo": "https://raw.githubusercontent.com/Swayanshuu/Batch-Mate-Helper/refs/heads/main/GitGlow.png",
+    "logo": "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/refs/heads/main/GitGlow.png",
     "screenshots": [
-      "https://raw.githubusercontent.com/Swayanshuu/Batch-Mate-Helper/refs/heads/main/GG1.jpeg",
-      "https://raw.githubusercontent.com/Swayanshuu/Batch-Mate-Helper/refs/heads/main/GG2.jpeg",
-      "https://raw.githubusercontent.com/Swayanshuu/Batch-Mate-Helper/refs/heads/main/GG3.jpeg"
+      "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/refs/heads/main/GG1.jpeg",
+      "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/refs/heads/main/GG2.jpeg",
+      "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/refs/heads/main/GG3.jpeg"
     ],
     "description": "GitGlow is a Flutter mobile application that turns a developer’s GitHub contribution graph into a live, animated wallpaper.\n\nThe app connects to GitHub using OAuth authentication and fetches contribution data through the GitHub GraphQL API.\n\nIt visualizes the data as a glowing contribution grid using Flutter’s custom canvas rendering and keeps the wallpaper updated with background syncing.\n\nGitGlow gives developers a creative way to showcase their coding activity and consistency directly on their device screens."
   }
