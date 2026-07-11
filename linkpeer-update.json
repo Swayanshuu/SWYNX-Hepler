@@ -1,17 +1,17 @@
 {
-"latestVersionCode": 4,
-"latestVersion": "1.1.0",
-"playStoreUrl": "https://play.google.com/store/apps/details?id=com.swynx.linkpeer",
-"title": "LinkPeer Update Available",
-"message": "This update includes new features, performance improvements, UI enhancements, and bug fixes.",
-"releaseDate": "2026-07-11",
-"features": [
-"Improved feed loading speed",
-"Added post sharing functionality",
-"Added update center",
-"Enhanced profile experience",
-"Improved notifications",
-"Fixed image upload issues",
-"General bug fixes and stability improvements"
-]
+  "latestVersionCode": 5,
+  "latestVersion": "1.1.1",
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.swynx.linkpeer",
+  "title": "LinkPeer 1.1.1 Available",
+  "message": "This update introduces Broadcast Announcements along with notification, navigation, and performance improvements.",
+  "releaseDate": "2026-07-11",
+  "features": [
+    "Introduced Broadcast Announcements",
+    "Added targeted broadcasts for Students, Alumni, Faculty, and all users",
+    "Added support for broadcast images and external links",
+    "Added dedicated Broadcasts section",
+    "Improved notification experience and reliability",
+    "Enhanced deep-link navigation",
+    "Performance improvements and stability fixes"
+  ]
 }
