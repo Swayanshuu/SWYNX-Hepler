@@ -1,0 +1,18 @@
+{
+"showUpdate": true,
+"latestVersionCode": 5,
+"latestVersion": "1.0.5",
+"playStoreUrl": "https://play.google.com/store/apps/details?id=com.swynx.linkpeer",
+"title": "LinkPeer Update Available",
+"message": "This update includes new features, performance improvements, UI enhancements, and bug fixes.",
+"releaseDate": "2026-07-11",
+"features": [
+"Improved feed loading speed",
+"Added post sharing functionality",
+"Added update center",
+"Enhanced profile experience",
+"Improved notifications",
+"Fixed image upload issues",
+"General bug fixes and stability improvements"
+]
+}
