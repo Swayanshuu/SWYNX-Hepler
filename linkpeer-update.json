@@ -1,17 +1,17 @@
 {
-  "latestVersionCode": 5,
-  "latestVersion": "1.1.1",
+  "latestVersionCode": 6,
+  "latestVersion": "1.1.2",
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.swynx.linkpeer",
-  "title": "LinkPeer 1.1.1 Available",
-  "message": "This update introduces Broadcast Announcements along with notification, navigation, and performance improvements.",
-  "releaseDate": "2026-07-11",
+  "title": "LinkPeer 1.1.2 Available",
+  "message": "This update improves deep linking, navigation reliability, and overall app stability for a smoother user experience.",
+  "releaseDate": "2026-07-12",
   "features": [
-    "Introduced Broadcast Announcements",
-    "Added targeted broadcasts for Students, Alumni, Faculty, and all users",
-    "Added support for broadcast images and external links",
-    "Added dedicated Broadcasts section",
-    "Improved notification experience and reliability",
-    "Enhanced deep-link navigation",
-    "Performance improvements and stability fixes"
+    "Fixed deep linking issues across the app",
+    "Improved opening of shared and external links",
+    "Enhanced in-app navigation reliability",
+    "Better redirection to posts and content from LinkPeer links",
+    "Improved handling of app launch from deep links",
+    "Performance optimizations",
+    "Bug fixes and stability improvements"
   ]
 }
