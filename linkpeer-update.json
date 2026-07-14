@@ -1,16 +1,16 @@
 {
-  "latestVersionCode": 7,
-  "latestVersion": "1.2.3",
+  "latestVersionCode": 8,
+  "latestVersion": "1.2.4",
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.swynx.linkpeer",
-  "title": "LinkPeer 1.2.3 Available",
-  "message": "This update introduces faster loading, improved content viewing, and a refreshed authentication experience.",
+  "title": "LinkPeer 1.2.4 Available",
+  "message": "This update delivers a faster startup experience, redesigned interactions, improved reliability, and multiple UI enhancements.",
   "releaseDate": "2026-07-14",
   "features": [
-    "Removed the guest login feature",
-    "Added a cache-first strategy for faster app performance",
-    "Implemented full-screen image viewing for broadcast posts",
-    "Redesigned the loading and authentication (AuthGate) screens",
-    "Performance optimizations",
-    "Bug fixes and stability improvements"
+    "Faster app startup experience",
+    "New custom snackbars and alerts",
+    "Redesigned comments interface",
+    "Fixed keyboard and navigation issues",
+    "Improved network reliability",
+    "UI enhancements and bug fixes"
   ]
 }
