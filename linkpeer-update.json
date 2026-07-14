@@ -1,16 +1,15 @@
 {
-  "latestVersionCode": 6,
-  "latestVersion": "1.1.2",
+  "latestVersionCode": 7,
+  "latestVersion": "1.2.3",
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.swynx.linkpeer",
-  "title": "LinkPeer 1.1.2 Available",
-  "message": "This update improves deep linking, navigation reliability, and overall app stability for a smoother user experience.",
-  "releaseDate": "2026-07-12",
+  "title": "LinkPeer 1.2.3 Available",
+  "message": "This update introduces faster loading, improved content viewing, and a refreshed authentication experience.",
+  "releaseDate": "2026-07-14",
   "features": [
-    "Fixed deep linking issues across the app",
-    "Improved opening of shared and external links",
-    "Enhanced in-app navigation reliability",
-    "Better redirection to posts and content from LinkPeer links",
-    "Improved handling of app launch from deep links",
+    "Removed the guest login feature",
+    "Added a cache-first strategy for faster app performance",
+    "Implemented full-screen image viewing for broadcast posts",
+    "Redesigned the loading and authentication (AuthGate) screens",
     "Performance optimizations",
     "Bug fixes and stability improvements"
   ]
