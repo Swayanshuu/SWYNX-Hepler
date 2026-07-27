@@ -20,5 +20,50 @@
       "Supabase",
       "Render"
     ]
-  }
+  },
+  {
+  "name": "LinkPeer API",
+  "description": "A scalable backend powering the LinkPeer social networking platform. It provides secure authentication, user management, posts, comments, likes, media uploads, notifications, faculty verification, role-based access, and analytics through a production-ready REST API.",
+  "domain": "https://api.linkpeer.swynx.dev",
+  "sourceCode": "https://github.com/Swayanshuu/linkpeer-backend",
+  "documentation": "https://github.com/Swayanshuu/linkpeer-backend/blob/main/README.md",
+  "deployment": "Render",
+  "status": "Online",
+  "architecture": "Layered REST API",
+  "database": "PostgreSQL",
+  "authentication": "JWT & Google OAuth",
+  "language": "Java",
+  "framework": "Spring Boot",
+  "version": "v1.0.0",
+  "license": "MIT",
+  "techStack": [
+    "Java",
+    "Spring Boot",
+    "Spring Security",
+    "Spring Data JPA",
+    "Hibernate",
+    "PostgreSQL",
+    "Supabase",
+    "JWT",
+    "Google OAuth 2.0",
+    "REST API",
+    "Maven",
+    "Docker",
+    "Redis",
+    "Render",
+    "Cloudinary",
+    "Firebase Cloud Messaging",
+    "Swagger / OpenAPI",
+    "Lombok",
+    "MapStruct",
+    "JUnit 5",
+    "Mockito",
+    "GitHub Actions",
+    "Git",
+    "CORS",
+    "Rate Limiting",
+    "Pagination",
+    "Caching"
+  ]
+}
 ]
