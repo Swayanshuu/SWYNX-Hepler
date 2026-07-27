@@ -55,21 +55,21 @@
     "description": "UNKNOWN"
   },
   {
-    "name": "LinkPeer",
-    "tagline": "Connect. Work. Grow.",
-    "isAvailable": true,
-    "link": "https://play.google.com/store/apps/details?id=com.example.app5",
-    "logo": "https://github.com/Swayanshuu/SWYNX-Hepler/blob/main/LinkPeer/LinkPeerFULL.png",
-    "screenshots": [
-      "https://github.com/Swayanshuu/SWYNX-Hepler/blob/main/LinkPeer/LP1.png",
-      "https://github.com/Swayanshuu/SWYNX-Hepler/blob/main/LinkPeer/LP2.png",
-      "https://github.com/Swayanshuu/SWYNX-Hepler/blob/main/LinkPeer/LP3.png",
-      "https://github.com/Swayanshuu/SWYNX-Hepler/blob/main/LinkPeer/LP4.png",
-      "https://github.com/Swayanshuu/SWYNX-Hepler/blob/main/LinkPeer/LP5.png",
-      "https://github.com/Swayanshuu/SWYNX-Hepler/blob/main/LinkPeer/LP6.png"
-    ],
-    "description": "LinkPeer is a scalable social networking platform built to strengthen communication and collaboration within college communities. It enables students, alumni, and faculty to create professional profiles, share posts, engage with peers, discover opportunities, and stay connected through a unified platform. Designed with a clean user experience and a robust backend architecture, LinkPeer emphasizes performance, security, and scalability, making it a reliable solution for academic networking and community engagement."
-  },
+  "name": "LinkPeer",
+  "tagline": "Connect. Work. Grow.",
+  "isAvailable": true,
+  "link": "https://play.google.com/store/apps/details?id=com.example.app5",
+  "logo": "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/main/LinkPeer/LinkPeerFULL.png",
+  "screenshots": [
+    "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/main/LinkPeer/LP1.png",
+    "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/main/LinkPeer/LP2.png",
+    "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/main/LinkPeer/LP3.png",
+    "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/main/LinkPeer/LP4.png",
+    "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/main/LinkPeer/LP5.png",
+    "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/main/LinkPeer/LP6.png"
+  ],
+  "description": "LinkPeer is a scalable social networking platform built to strengthen communication and collaboration within college communities. It enables students, alumni, and faculty to create professional profiles, share posts, engage with peers, discover opportunities, and stay connected through a unified platform. Designed with a clean user experience and a robust backend architecture, LinkPeer emphasizes performance, security, and scalability, making it a reliable solution for academic networking and community engagement."
+},
   {
     "name": "GeoQuest",
     "tagline": "Hackathon Project \nTop 10 Finalist🔥 at Odisha's biggest hackathon event.",
