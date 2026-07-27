@@ -4,6 +4,7 @@
     "tagline": "Organize your tasks easily",
     "isAvailable": true,
     "link": "https://drive.google.com/file/d/1MGizjocHuqVvi5FTERaeKGJwyIL2LMgL/view",
+    "sourceCode": "https://github.com/Swayanshuu/todostuffs",
     "logo": "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/refs/heads/main/todo.png",
     "techStack": [
       "Flutter",
@@ -25,6 +26,7 @@
     "tagline": "Chat with people over World! (Not Working due to internal issue)",
     "isAvailable": true,
     "link": "https://drive.google.com/file/d/10zt6UdDa7IazZAYeoUdJj4xrU3IwDy9x/view?usp=drivesdk",
+    "sourceCode": "https://github.com/Swayanshuu/globalchatapp",
     "logo": "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/refs/heads/main/GClogo.png",
     "techStack": [
       "Flutter",
@@ -45,6 +47,7 @@
     "tagline": "Because every batch is a STROY",
     "isAvailable": true,
     "link": "https://drive.google.com/file/d/1b0GFvl4Lp3q7oOJngPKYN3NHzWPTML2E/view?usp=drivesdk",
+  "sourceCode": "https://github.com/Swayanshuu/Batch-Mate",
     "logo": "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/refs/heads/main/BM.png",
   "techStack": [
       "Flutter",
@@ -65,6 +68,7 @@
     "tagline": "Coming soon: With More Featurs",
     "isAvailable": false,
     "link": "",
+    "sourceCode": "https://github.com/Swayanshuu/TaskLet",
     "logo": "https://github.com/Swayanshuu/SWYNX-Hepler/blob/main/TLorg.png?raw=true",
     "techStack": [
       "Flutter",
@@ -84,6 +88,7 @@
   "tagline": "Connect. Work. Grow.",
   "isAvailable": true,
   "link": "https://play.google.com/store/apps/details?id=com.swynx.linkpeer",
+    "sourceCode": "https://github.com/Swayanshuu/LinkPeer",
   "logo": "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/main/LinkPeer/LinkPeerFULL.png",
     "techStack": [
   "Flutter",
@@ -114,6 +119,7 @@
     "tagline": "Hackathon Project \nTop 10 Finalist🔥 at Odisha's biggest hackathon event.",
     "isAvailable": true,
     "link": "https://www.linkedin.com/posts/swayanshu-sarthak-sadangi_hackathon-flutter-mobiledevelopment-activity-7414571328764084225-fjp3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFDg8D8B6I9QpHfXRUsfNtixYTsr1KTqCfQ",
+    "sourceCode": "https://github.com/Swayanshuu/GeoQuest-HackNitR",
     "logo": "https://media.licdn.com/dms/image/v2/D562DAQGMOrnFUKG88w/profile-treasury-image-shrink_480_480/B56ZuXZ0L7HMAM-/0/1767771686335?e=1773144000&v=beta&t=CROCVt_YLiLloFZwFZeffm-1izYjT9m1-WMGsB_k-B8",
     "techStack": [
   "Flutter",
@@ -140,6 +146,7 @@
     "tagline": "Turn your commits into Light✨",
     "isAvailable": true,
     "link": "https://drive.google.com/file/d/1Zesejjvg4D5HhPIvmIxepsscRPtCQ-ag/view?usp=drive_link",
+        "sourceCode": "https://github.com/Swayanshuu/GitGlow",
     "logo": "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/refs/heads/main/GitGlow.png",
     "techStack": [
   "Flutter",
