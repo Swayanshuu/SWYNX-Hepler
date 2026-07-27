@@ -3,8 +3,8 @@
     "name": "Shorten-Links",
     "description": "A fast and reliable URL shortener inspired by Bitly. Create short, shareable links with click analytics, custom aliases, QR codes, and seamless redirection through go.swynx.dev.",
     "domain": "https://go.swynx.dev",
-    "sourceCode": "https://github.com/Swayanshuu/Shorten-Links",
-    "documentation": "https://docs.go.swynx.dev",
+    "sourceCode": "https://github.com/Swayanshuu/shorten-link",
+    "documentation": "https://github.com/Swayanshuu/shorten-link/blob/main/README.md",
     "deployment": "Render",
     "status": "Online",
     "architecture": "Monolithic REST API",
@@ -17,8 +17,7 @@
     "techStack": [
       "Spring Boot",
       "PostgreSQL",
-      "Redis",
-      "Docker",
+      "Supabase",
       "Render"
     ]
   }
