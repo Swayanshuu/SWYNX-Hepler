@@ -5,6 +5,12 @@
     "isAvailable": true,
     "link": "https://drive.google.com/file/d/1MGizjocHuqVvi5FTERaeKGJwyIL2LMgL/view",
     "logo": "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/refs/heads/main/todo.png",
+    "techStack": [
+      "Flutter",
+      "Firebase Auth",
+      "Firebase FireStore",
+      "Provider"
+    ],
     "screenshots": [
       "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/refs/heads/main/ts1.jpg",
       "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/refs/heads/main/ts2.jpg",
@@ -20,6 +26,12 @@
     "isAvailable": true,
     "link": "https://drive.google.com/file/d/10zt6UdDa7IazZAYeoUdJj4xrU3IwDy9x/view?usp=drivesdk",
     "logo": "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/refs/heads/main/GClogo.png",
+    "techStack": [
+      "Flutter",
+      "Firebase Auth",
+      "Firebase FireStore",
+      "Provider"
+    ],
     "screenshots": [
       "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/refs/heads/main/gc1.jpg",
       "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/refs/heads/main/gc2.jpg",
@@ -34,6 +46,12 @@
     "isAvailable": true,
     "link": "https://drive.google.com/file/d/1b0GFvl4Lp3q7oOJngPKYN3NHzWPTML2E/view?usp=drivesdk",
     "logo": "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/refs/heads/main/BM.png",
+  "techStack": [
+      "Flutter",
+      "Firebase Auth",
+      "Firebase FireStore",
+      "Provider"
+    ],
     "screenshots": [
       "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/refs/heads/main/BM1.jpeg",
       "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/refs/heads/main/BM2.jpeg",
@@ -48,6 +66,13 @@
     "isAvailable": false,
     "link": "",
     "logo": "https://github.com/Swayanshuu/SWYNX-Hepler/blob/main/TLorg.png?raw=true",
+    "techStack": [
+      "Flutter",
+      "Firebase Auth",
+      "Supabase",
+      "Provider",
+      "PostgreSQL"
+    ],
     "screenshots": [
       "https://link-to-screenshot1.jpg",
       "https://link-to-screenshot2.jpg"
@@ -60,6 +85,20 @@
   "isAvailable": true,
   "link": "https://play.google.com/store/apps/details?id=com.swynx.linkpeer",
   "logo": "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/main/LinkPeer/LinkPeerFULL.png",
+    "techStack": [
+  "Flutter",
+  "Dart",
+  "Firebase Authentication",
+  "Supabase",
+  "PostgreSQL",
+  "Provider",
+  "Google Sign-In",
+  "Firebase Cloud Messaging",
+  "Google AdMob",
+  "SharedPreferences",
+  "REST API",
+  "Deep Linking"
+],
   "screenshots": [
     "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/main/LinkPeer/LP1.png",
     "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/main/LinkPeer/LP2.png",
@@ -76,6 +115,18 @@
     "isAvailable": true,
     "link": "https://www.linkedin.com/posts/swayanshu-sarthak-sadangi_hackathon-flutter-mobiledevelopment-activity-7414571328764084225-fjp3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFDg8D8B6I9QpHfXRUsfNtixYTsr1KTqCfQ",
     "logo": "https://media.licdn.com/dms/image/v2/D562DAQGMOrnFUKG88w/profile-treasury-image-shrink_480_480/B56ZuXZ0L7HMAM-/0/1767771686335?e=1773144000&v=beta&t=CROCVt_YLiLloFZwFZeffm-1izYjT9m1-WMGsB_k-B8",
+    "techStack": [
+  "Flutter",
+  "Dart",
+  "Firebase Authentication",
+  "Supabase",
+  "PostgreSQL",
+  "Provider",
+  "Google Sign-In",
+  "Firebase Cloud Messaging",
+  "SharedPreferences",
+  "REST API",
+],
     "screenshots": [
       "https://media.licdn.com/dms/image/v2/D562DAQGrffU7nOEtVg/profile-treasury-image-shrink_1920_1920/B56ZuXahnDG0Ac-/0/1767771872351?e=1773144000&v=beta&t=0DxMOtPSM6fENoMGSBZOVKRatfl7_PY4ZEl5nbEAqnw",
       "https://media.licdn.com/dms/image/v2/D562DAQHYai8QNEmzjA/profile-treasury-image-shrink_8192_8192/B56ZuXaX61JUAk-/0/1767771832808?e=1773144000&v=beta&t=ScZf959WWa9CMhqZIZkOuIWhj-KV3P0dQMdJF1GPi2M",
@@ -90,6 +141,18 @@
     "isAvailable": true,
     "link": "https://drive.google.com/file/d/1Zesejjvg4D5HhPIvmIxepsscRPtCQ-ag/view?usp=drive_link",
     "logo": "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/refs/heads/main/GitGlow.png",
+    "techStack": [
+  "Flutter",
+  "Dart",
+  "GitHub GraphQL API",
+  "GitHub OAuth",
+  "Flutter CustomPainter",
+  "Live Wallpaper",
+  "SharedPreferences",
+  "HTTP",
+  "Provider",
+  "Android"
+],
     "screenshots": [
       "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/refs/heads/main/GG1.jpeg",
       "https://raw.githubusercontent.com/Swayanshuu/SWYNX-Hepler/refs/heads/main/GG2.jpeg",
