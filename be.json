@@ -2,7 +2,7 @@
   {
   "name": "Shorten-Links",
   "description": "A production-ready URL shortening service inspired by Bitly, built for fast, secure, and reliable link management. It enables users to generate custom short URLs, perform seamless redirections, manage links efficiently, and track usage through a scalable REST API designed for high performance and future extensibility.",
-  "domain": "https://go.swynx.dev",
+  "domain": "https://visit.go.swynx.dev",
   "sourceCode": "https://github.com/Swayanshuu/shorten-link",
   "documentation": "https://github.com/Swayanshuu/shorten-link/blob/main/README.md",
   "deployment": "Render",
