@@ -1,16 +1,16 @@
 {
-  "latestVersionCode": 9,
-  "latestVersion": "1.2.4",
+  "latestVersionCode": 10,
+  "latestVersion": "1.3.0",
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.swynx.linkpeer",
-  "title": "LinkPeer 1.2.4 Available",
-  "message": "This update delivers a faster startup experience, redesigned interactions, improved reliability, and multiple UI enhancements.",
-  "releaseDate": "2026-07-15",
+  "title": "LinkPeer 1.3.0 Available",
+  "message": "This update delivers faculty designation credentials, instant app-themed bottom sheet dropdowns, automatic read notifications, production AdMob stability, and web version links.",
+  "releaseDate": "2026-08-08",
   "features": [
-    "Faster app startup experience",
-    "New custom snackbars and alerts",
-    "Redesigned comments interface",
-    "Fixed keyboard and navigation issues",
-    "Improved network reliability",
-    "UI enhancements and bug fixes"
+    "Faculty credentials (Designation & Department) on profile header",
+    "Preselected branch, stream, department & year choices in Edit Profile",
+    "App-themed instant bottom-sheet selectors replacing slow dropdown popups",
+    "Automatic mark-all-notifications-as-read when visiting Notification Screen",
+    "Web version links (linkpeer.swynx.dev) integrated across the app",
+    "Production Google AdMob policy compliance & native surface crash fixes"
   ]
 }
