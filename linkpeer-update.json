@@ -1,11 +1,13 @@
 {
-  "latestVersionCode": 10,
-  "latestVersion": "1.3.0",
+  "latestVersionCode": 11,
+  "latestVersion": "1.3.1",
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.swynx.linkpeer",
-  "title": "LinkPeer 1.3.0 Available",
-  "message": "This update delivers faculty designation credentials, instant app-themed bottom sheet dropdowns, automatic read notifications, production AdMob stability, and web version links.",
-  "releaseDate": "2026-08-08",
+  "title": "LinkPeer 1.3.1 Available",
+  "message": "This update introduces auto-detected HTTP/HTTPS link identifiers in post descriptions, a brand-new Notice Board section, faculty credentials, and enhanced app stability.",
+  "releaseDate": "2026-08-12",
   "features": [
+    "Automatic HTTP/HTTPS & www link detection with direct external browser launching in post descriptions",
+    "New Notice Board section for official campus announcements, notices, image & PDF attachment viewers",
     "Faculty credentials (Designation & Department) on profile header",
     "Preselected branch, stream, department & year choices in Edit Profile",
     "App-themed instant bottom-sheet selectors replacing slow dropdown popups",
