@@ -1,18 +1,19 @@
 {
-  "latestVersionCode": 11,
-  "latestVersion": "1.3.1",
+  "latestVersionCode": 12,
+  "latestVersion": "1.4.0",
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.swynx.linkpeer",
-  "title": "LinkPeer 1.3.1 Available",
-  "message": "This update introduces auto-detected HTTP/HTTPS link identifiers in post descriptions, a brand-new Notice Board section, faculty credentials, and enhanced app stability.",
-  "releaseDate": "2026-08-12",
+  "title": "LinkPeer 1.4.0 Available",
+  "message": "This update introduces the official CSE Alumni Network Hub, Cache-First offline architecture, web-matching email application launcher, interactive hashtags & links in notices, and UI performance enhancements.",
+  "releaseDate": "2026-08-19",
   "features": [
-    "Automatic HTTP/HTTPS & www link detection with direct external browser launching in post descriptions",
-    "New Notice Board section for official campus announcements, notices, image & PDF attachment viewers",
-    "Faculty credentials (Designation & Department) on profile header",
-    "Preselected branch, stream, department & year choices in Edit Profile",
-    "App-themed instant bottom-sheet selectors replacing slow dropdown popups",
-    "Automatic mark-all-notifications-as-read when visiting Notification Screen",
-    "Web version links (linkpeer.swynx.dev) integrated across the app",
-    "Production Google AdMob policy compliance & native surface crash fixes"
+    "Official CSE Alumni Network Hub with Jobs, Internships & Alumni Events",
+    "Cache-First (Stale-While-Revalidate) architecture for instant 0ms app startup and offline resilience",
+    "Pre-filled email application launcher matching web portal composer",
+    "Interactive URL link detection & hashtag recognition in Notice Board announcements",
+    "Dynamic Recent Opportunities Spotlight and Upcoming Event Highlights",
+    "Official IGIT CSEA Alumni Website portal integration (cse.igitalumni.in)",
+    "Recent-first jobs sorting & date-badge event timeline display",
+    "Production stability & smooth Material 3 visual optimizations"
   ]
 }
+
