@@ -77,6 +77,7 @@
       "Git"
     ]
   },
+
   {
     "name": "DevShell",
     "description": "DevShell is a high-performance, terminal-based developer analytics engine and command center built with Java 21 and Spring Boot. It aggregates GitHub development activity, tracks commit velocity, analyzes technology stack composition, manages project insights, records technical learnings, tracks bugs, and generates development reports — all from a local-first terminal environment.",
