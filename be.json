@@ -111,5 +111,43 @@
       "UTF-8",
       "Local-First Architecture"
     ]
-  }
+  },
+  {
+  "name": "EventDock",
+  "description": "EventDock is a developer-focused API failure monitoring and diagnostics platform built to help developers detect, inspect, and debug application errors. With a Spring Boot starter, it automatically captures API failures, collects sanitized request metadata, and securely reports diagnostic events to a centralized dashboard, enabling developers to investigate exceptions and understand production issues.",
+  "domain": "https://eventdock.swynx.dev",
+  "sourceCode": "https://github.com/Swayanshuu/EventDock",
+  "documentation": "https://github.com/Swayanshuu/EventDock/blob/main/README.md",
+  "deployment": "Spring Boot API + Flutter Web Dashboard",
+  "status": "In Development",
+  "architecture": "Modular Monolith",
+  "database": "PostgreSQL (Supabase)",
+  "authentication": "Firebase Authentication + Project API Keys",
+  "language": "Java",
+  "framework": "Spring Boot",
+  "version": "v0.1.0",
+  "license": "MIT",
+  "techStack": [
+    "Java 21",
+    "Spring Boot",
+    "Spring Boot Starter",
+    "Flutter",
+    "Dart",
+    "PostgreSQL",
+    "Supabase",
+    "Firebase Authentication",
+    "REST APIs",
+    "Maven",
+    "Flyway",
+    "Picocli",
+    "Docker",
+    "API Failure Monitoring",
+    "Exception Tracking",
+    "Request Metadata Capture",
+    "Sensitive Data Redaction",
+    "Project API Key Authentication",
+    "Diagnostic Event Ingestion",
+    "Application Debugging"
+  ]
+}
 ]
